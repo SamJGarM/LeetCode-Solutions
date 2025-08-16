@@ -1,16 +1,5 @@
-# 323. Number of Connected Components in an Undirected Graph
-#
-# You have a graph of n nodes. You are given an integer n and an array edges where edges[i] = [ai, bi] indicates that there is an edge between ai and bi in the graph.
-#
-# Return the number of connected components in the graph.
-
-# Constraints:
-# 1 <= n <= 2000
-# 1 <= edges.length <= 5000
-# edges[i].length == 2
-# 0 <= ai <= bi < n
-# ai != bi
-# There are no repeated edges.
+# Author: Samuel Jaden Garcia Munoz
+# Date: 11/08/2025
 
 class Solution:
     def countComponents(self, n: int, edges: List[List[int]]) -> int:
@@ -33,9 +22,9 @@ class Solution:
         # Adjacency map for neighbors of every vertex.
         ## We create a list for each vertex to track all edges to/from this
         neighbors = {i:[] for i in range(n)}
-        # Iterate through every edge pair in the edges list
+        # Iterate through every edge pair in the edges list.
         for (node1, node2) in edges:
-            # Since the graph is undirected, append to the lists within the dictionary for both ends of the edge
+            # Since the graph is undirected, append to the lists within the dictionary for both ends of the edge.
             neighbors[node1].append(node2)
             neighbors[node2].append(node1)
 
@@ -52,3 +41,6 @@ class Solution:
 
         # Return the resulting amount of groups
         return res
+    
+# Time Complexity: O(V + E) (Vertices + Edges)
+# Storage Complexity: O(V) (Vertices)
