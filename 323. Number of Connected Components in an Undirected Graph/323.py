@@ -1,5 +1,10 @@
-# Author: Samuel Jaden Garcia Munoz
-# Date: 11/08/2025
+"""
+Author: Samuel Jaden García Muñoz
+Date: 11/08/2025
+Note:-
+First solution posted to GitHub, for the purpose of showcasing my solutions, as well as for
+posterior data structures and algorithms study and reference.
+"""
 
 class Solution:
     def countComponents(self, n: int, edges: List[List[int]]) -> int:
