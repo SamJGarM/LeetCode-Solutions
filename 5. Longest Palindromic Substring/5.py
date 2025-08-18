@@ -1,8 +1,8 @@
 """
 Author: Samuel Jaden García Muñoz
-Date: 
+Date: 18/08/2025
 Note:-
-
+Will redo with a function to save code repetition.
 """
 
 class Solution:
@@ -38,6 +38,6 @@ class Solution:
         return res
     
 """
-Time Complexity:
-Space Complexity:
+Time Complexity: O(n^2)
+Space Complexity: O(1)
 """
