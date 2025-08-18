@@ -60,5 +60,7 @@ class Solution:
         # Return the head of the new head
         return newHead
 
-# Time Complexity: O(n)
-# Storage Complexity: O(1), because we've reused the existing linked list.
+"""
+Time Complexity: O(n)
+Space Complexity: O(1), because we've reused the existing linked list.
+"""

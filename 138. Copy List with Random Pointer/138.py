@@ -44,5 +44,7 @@ class Solution:
         # Return the head of the copy list.
         return hashmap[head]
 
-# Time Complexity: O(n)
-# Storage Complexity: O(n)
+"""
+Time Complexity: O(n)
+Space Complexity: O(n)
+"""

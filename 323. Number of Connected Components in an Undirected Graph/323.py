@@ -47,5 +47,7 @@ class Solution:
         # Return the resulting amount of groups
         return res
     
-# Time Complexity: O(V + E) (Vertices + Edges)
-# Storage Complexity: O(V) (Vertices)
+"""
+Time Complexity: O(V + E) (Vertices + Edges)
+Space Complexity: O(V) (Vertices)
+"""
