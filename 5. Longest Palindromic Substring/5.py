@@ -1,7 +1,7 @@
 """
 Author: Samuel Jaden García Muñoz
 Date: 18/08/2025
-Note:-
+Note:- 29/09/2025
 Will redo with a function to save code repetition.
 """
 
