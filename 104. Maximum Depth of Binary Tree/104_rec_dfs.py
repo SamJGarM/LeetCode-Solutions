@@ -1,6 +1,7 @@
 """
 Author: Samuel Jaden García Muñoz
 Date: 19/08/2025
+Revised: 22/10/2025
 Note:-
 Good question for testing out different algorithms, so I'll do multiple solutions for it.   
 """
