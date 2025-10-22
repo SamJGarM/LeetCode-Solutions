@@ -1,6 +1,7 @@
 """
 Author: Samuel Jaden García Muñoz
 Date: 20/08/2025
+Revised: 10/22/2025
 Note:-
 Suboptimal solution that doesn't reach O(log(n)) complexity, but it still gives a passing result.
 """

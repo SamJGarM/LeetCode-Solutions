@@ -1,6 +1,7 @@
 """
 Author: Samuel Jaden García Muñoz
 Date: 20/08/2025
+Revised: 10/22/2025
 Note:-
 Improved version that now reaches O(log n) time complexity as requested by the exercise.
 """
