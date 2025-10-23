@@ -1,6 +1,7 @@
 """
 Author: Samuel Jaden García Muñoz
 Date: 19/08/2025
+Revised: 23/10/2025
 Note:-
 I see there's a better solution, so I'll figure out that one next time.
 """

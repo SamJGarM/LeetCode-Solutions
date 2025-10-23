@@ -1,6 +1,7 @@
 """
 Author: Samuel Jaden García Muñoz
 Date: 20/08/2025
+Revised: 23/10/2025
 Note:-
 Bucket sort solution.
 """
