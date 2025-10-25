@@ -8,6 +8,7 @@ This repository currently holds solutions in the following languages:
 - [Python]
 
 # New File Structure
+```py
 """
 Author: Samuel Jaden García Muñoz
 Date: 
@@ -22,3 +23,4 @@ Note:-
 Time Complexity:
 Space Complexity:
 """
+```
