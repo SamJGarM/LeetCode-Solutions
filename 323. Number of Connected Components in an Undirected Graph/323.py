@@ -1,6 +1,7 @@
 """
 Author: Samuel Jaden García Muñoz
 Date: 11/08/2025
+Revised: 26/10/2025
 Note:-
 First solution posted to GitHub, for the purpose of showcasing my solutions, as well as for
 posterior data structures and algorithms study and reference.
