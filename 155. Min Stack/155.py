@@ -9,7 +9,7 @@ Note:-
 class MinStack:
 
     def __init__(self):
-        # List for maintaing all values currently in the stack.
+        # List for maintaining all values currently in the stack.
         self.stack = []
         # List that keeps track of the minimum value at any given position of the stack.
         self.minimum = []
