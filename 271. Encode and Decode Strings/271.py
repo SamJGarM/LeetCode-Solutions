@@ -1,7 +1,7 @@
 """
 Author: Samuel Jaden García Muñoz
-Date: 
-Revised: 
+Date: 29/10/2025
+Revised: 31/10/2025
 Note:-
 
 """
