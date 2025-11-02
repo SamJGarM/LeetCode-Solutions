@@ -1,7 +1,7 @@
 """
 Author: Samuel Jaden García Muñoz
 Date: 16/08/2025
-Revision: 02/11/2025
+Revised: 02/11/2025
 Note:-
 This version improves on the storage complexity, but is more time costly to code and less readable.
 Normal version is probably good enough, but good to know this implementation as well.
