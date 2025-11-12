@@ -1,7 +1,7 @@
 """
 Author: Samuel Jaden García Muñoz
 Date: 26/10/2025
-Revised: 27/10/2025
+Revised: 12/11/2025
 Note:-
 Maintain a variable with the value of the most frequently repeating character to reduce constantly calls
 to max(count.values()) which could be up to 26 comparisons if all letters are used.
