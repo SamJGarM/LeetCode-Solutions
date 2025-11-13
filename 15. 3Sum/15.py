@@ -1,6 +1,7 @@
 """
 Author: Samuel Jaden García Muñoz
 Date: 25/08/2025
+Revised: 12/11/2025
 Note:-
 2Sum with an outer loop.
 """
