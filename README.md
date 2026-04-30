@@ -7,6 +7,7 @@ In the case of reaching several solutions (i.e. improvements or different algori
 This repository currently holds solutions in the following languages:
 - [Python] - 60 Solutions
 
+
 # New File Structure
 ```py
 """
@@ -23,4 +24,21 @@ Note:-
 Time Complexity:
 Space Complexity:
 """
+```
+
+```js
+/**
+Author: Samuel Jaden García Muñoz
+Date: 
+Revised: 
+Note:-
+
+**/
+
+
+
+/**
+Time Complexity:
+Space Complexity:
+**/
 ```

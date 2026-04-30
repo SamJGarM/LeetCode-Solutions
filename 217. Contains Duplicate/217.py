@@ -1,7 +1,7 @@
 """
 Author: Samuel Jaden García Muñoz
 Date: 22/08/2025
-Revised: 26/10/2025
+Revised: 30/04/2026
 Note:-
 Very cute problem with only one line needed for the solution.
 (Though I could do it iteratively by populating the set num by num
