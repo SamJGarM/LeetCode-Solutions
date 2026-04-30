@@ -6,7 +6,7 @@ In the case of reaching several solutions (i.e. improvements or different algori
 # Languages
 This repository currently holds solutions in the following languages:
 - [Python] - 60 Solutions
-
+- [JavaScript] - 1 Solutions
 
 # New File Structure
 ```py
